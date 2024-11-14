@@ -6,7 +6,7 @@ import Header from './HomeViewSections/Header.vue';
 <template>
   <main class="space-y-16">
     <Header />
-    <div class="container mx-auto border border-red-700">
+    <div class="container mx-auto">
       <ArticleList />
     </div>
   </main>
